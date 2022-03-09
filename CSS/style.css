@@ -33,6 +33,13 @@ p {
     padding: 0 20px;
 }
 
+.container-2 {
+    margin: auto;
+    max-width: 1100;
+    overflow: auto;
+    padding: 30px 20px;
+}
+
 .text-primary {
     color: #f7c08a;    
 }
